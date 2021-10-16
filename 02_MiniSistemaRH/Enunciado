@@ -1,0 +1,16 @@
+Instruções
+Implementar uma versão orientada a objetos de um mini sistema de recursos-humanos que permite gerenciar empresas, departamentos e funcionários
+
+Histórias de usuário
+====================
+
+Eu, como gerente de RH, desejo cadastrar empresas para poder geri-las.
+Eu, como gerente de RH, desejo excluir empresas para remover aquelas que não estejam mais nos contratando.
+Eu, como gerente de RH, desejo cadastrar departamentos de empresas para poder geri-los.
+Eu, como gerente de RH, desejo excluir departamentos de empresas para remover aqueles que não existem mais.
+Eu, como gerente de RH, desejo cadastrar funcionários em departamentos para poder geri-los.
+Eu, como gerente de RH, desejo excluir funcionários de departamentos que tenham sido demitidos.
+Eu, como gerente de RH, desejo mover funcionários para outros departamentos, caso tenham sido transferidos.
+Eu, como gerente de RH, desejo emitir uma lista de todos os funcionários da empresa, com seus departamentos, cargos e salários.
+Eu, como gerente de RH, desejo emitir uma lista de todos os funcionários de um departamento com os seus cargos e salários.
+Eu, como gerente de RH, desejo saber qual departamento da empresa é mais custoso para poder melhor gerir as finanças e planejar.
