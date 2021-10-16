@@ -1,0 +1,18 @@
+Instruções
+Implementar uma versão orientada a objetos de um mini sistema acadêmico que permite que sejam gerenciados cursos, ofertas de disciplina e alunos.
+
+Histórias de usuário
+====================
+
+Eu, como coordenador, desejo cadastrar cursos para poder coordená-los.
+Eu, como coordenador, desejo excluir cursos para remover aqueles que não estejam sendo oferecidos.
+Eu, como coordenador, desejo cadastrar ofertas de disciplinas em algum curso para poder gerenciar as ofertas.
+Eu, como coordenador, desejo excluir ofertas de disciplina para remover aquelas que não estejam sendo oferecidas.
+Eu, como coordenador, desejo cadastrar alunos em ofertas de disciplinas para saber qual aluno está cursando qual disciplina.
+Eu, como coordenador, desejo excluir alunos de ofertas de disciplinas para remover aqueles que desistiram.
+Eu, como coordenador, desejo poder saber qual curso tem mais alunos matriculados (contando todas as ofertas de disciplina) para saber qual curso tem mais procura.
+Eu, como coordenador, desejo poder saber qual disciplina de um determinado curso tem mais alunos matriculados para saber qual delas tem mais procura.
+
+Curso: sigla (ADS), nome (Análise e Desenvolvimento de Sistemas)
+Oferta de disciplina: sigla (ESII), turno (V ou N), nome (Engenharia de Software II), semestre (2), ano (2021).
+Matrícula de aluno: ra (121221), nome (João da Silva)
